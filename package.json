@@ -1,0 +1,22 @@
+{
+  "name": "raid-discord-js",
+  "version": "1.0.1",
+  "description": "An module who can simulate raid on discord server ( educational purpose only )",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "raid",
+    "discord",
+    "raid",
+    "nuker",
+    "discord",
+    "nuker"
+  ],
+  "author": "frost.wrld",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  }
+}
